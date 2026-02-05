@@ -1,0 +1,1 @@
+# redhat-lightspeed-aws-instance-removal
